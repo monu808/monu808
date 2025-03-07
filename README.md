@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://twitter.com/monurajput8085" target="blank"><img src="https://img.shields.io/twitter/follow/monurajput8085?logo=twitter&style=for-the-badge" alt="monurajput8085" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [https://narendra-singh-portfolio.figweb.site/](https://narendra-singh-portfolio.figweb.site/)
+- 👨‍💻 All of my projects are available at [[https://narendra-singh-portfolio.figweb.site/](https://narendrasingh.xyz/)](https://narendra-singh-portfolio.figweb.site/)
 
 - 📫 How to reach me **rmonu3605@gmail.com**
 
