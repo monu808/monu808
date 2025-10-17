@@ -29,3 +29,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=monu808&show_icons=true&locale=en" alt="monu808" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=monu808&" alt="monu808" /></p>
+
+## 🏆 Hacktoberfest Badges
+![Hacktoberfest 2025]([https://img.shields.io/badge/Hacktoberfest-2025-blueviolet?style=for-the-badge&logo=hacktoberfest](https://assets.holopin.io/hf2025levels/lvl5-human.webp))
+![Hacktoberfest Finisher](https://img.shields.io/badge/Hacktoberfest%20Finisher-2025-orange?style=for-the-badge&logo=hacktoberfest)
+
